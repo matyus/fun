@@ -1,0 +1,45 @@
+// Place all the styles related to the fun controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.fill {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+
+}
+  .fill--width {
+    height: 61.8%;
+  }
+  .fill--height {
+    width: 61.8%;
+  }
+
+  .fill--red {
+    background-color:red;
+  }
+  .fill--orange {
+    background-color:orange;
+  }
+  .fill--yellow {
+    background-color:yellow;
+  }
+  .fill--green {
+    background-color:green;
+  }
+  .fill--blue {
+    background-color:blue;
+  }
+  .fill--indigo {
+    background-color:indigo;
+  }
+  .fill--violet {
+    background-color:violet;
+  }
+
+.phi {
+  background-color: black;
+}
+
+
